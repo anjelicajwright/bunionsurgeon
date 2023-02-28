@@ -1,0 +1,9 @@
+.bunionLogo {
+  opacity: 70%;
+}
+
+.navCont {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+}
